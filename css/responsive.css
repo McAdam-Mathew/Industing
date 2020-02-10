@@ -467,17 +467,18 @@ License URI:
         background: #ea253f;
         display: none;
         margin-bottom: 15px;
-    }
+}
     .mainmenu ul li{
         display: block;
         width: 100%;
         margin-right: 0;
-        border-bottom: 1px solid rgba(255, 255, 255, .2);
+        border-bottom: 1px solid rgba(255, 255, 255, .4);
         text-align: left;
     }
     .nav_bar .mainmenu > ul > li,
     .header_02 .mainmenu > ul > li{
         padding: 0;
+        color: #fff;
     }
     .mainmenu ul li a{
         color: #FFF;
